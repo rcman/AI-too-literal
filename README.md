@@ -1,6 +1,7 @@
 # This is my conversation with Super Grok.  Very frustrating
 
 <br>
+
 ![convo1](https://github.com/user-attachments/assets/e47d156f-a64e-4864-bc92-e8c5738cb7dc)
 ![convo2](https://github.com/user-attachments/assets/92f22fd1-d061-4c72-ad3f-5c61e58f0845)
 ![convo3](https://github.com/user-attachments/assets/48479a83-522a-4770-8cc2-227504a11406)
