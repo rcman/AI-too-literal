@@ -1,4 +1,4 @@
-# This is my conversation with Super Grok.  Very frustrating
+# This is my conversation with Super Grok.  Very frustrating. All AI's have this same problem!
 
 <br>
 
