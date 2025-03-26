@@ -10,7 +10,11 @@ Best AI for continuous work (not stoping when producing results): Super Grok    
 Best Science and Math: Super Grok(hands down)
 <br>
 <BR>
+A BIG ASK!
+When producing code, you DO NOT need to display it on screen when it's being created. I would rather you save the bandwidth, go off and do it, tell me it's done, ask me to click a button(if I want) to see the code. As AI's get smarter and code gets better, there is no benefit of producing 2000+ lines of code on the screen. It's fun to watch but I would rather have faster and more accurate results than watching it fumble about.
 
+<br>
+<BR>
 
 ![convo1](https://github.com/user-attachments/assets/e47d156f-a64e-4864-bc92-e8c5738cb7dc)
 ![convo2](https://github.com/user-attachments/assets/92f22fd1-d061-4c72-ad3f-5c61e58f0845)
