@@ -1,10 +1,10 @@
 # This is my conversation with Super Grok.  Very frustrating. All AI's have this same problem!
 
 <br>
-Best Programming AI: Claude
+Best Programming AI: Claude         Where it needs improvement: Backend Horsepower - it produces code great but stops after so many lines, then when asked to continue can go a little crazy.
 <br>
 <BR>
-Best AI for continuous work (not stoping when producing results): Super Grok
+Best AI for continuous work (not stoping when producing results): Super Grok      Where it needs improvement: Image creation, it really does NOT do well at all. In programming it needs to understand what a pointer and a reference to a pointer does. 
 <br>
 <BR>
 Best Science and Math: Super Grok(hands down)
