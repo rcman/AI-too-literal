@@ -19,6 +19,9 @@ When producing code, you DO NOT need to display it on screen when it's being cre
 
 <br>
 <BR>
+# Super Grok Conversation
+
+<br>
 
 ![convo1](https://github.com/user-attachments/assets/e47d156f-a64e-4864-bc92-e8c5738cb7dc)
 ![convo2](https://github.com/user-attachments/assets/92f22fd1-d061-4c72-ad3f-5c61e58f0845)
@@ -35,6 +38,16 @@ When producing code, you DO NOT need to display it on screen when it's being cre
 ![convo14](https://github.com/user-attachments/assets/bb99c211-09d8-459f-af8d-8bc5aca8c750)
 ![convoa-1](https://github.com/user-attachments/assets/b1e86df7-d5c1-4eb4-86cc-da34df4c3539)
 ![convoa-2](https://github.com/user-attachments/assets/9e999d39-265f-4b38-9afe-0f1d0e5db4f6)
+
+<BR>
+
+# Chat GPT Conversation
+
+<BR>
+
+
+
+
 ![chatgpt1](https://github.com/user-attachments/assets/a849a1de-c160-424e-b188-090e9accd54d)
 ![chatgpt2](https://github.com/user-attachments/assets/c2f9bc74-56cc-46b1-b6af-a323062479bb)
 ![chatgpt3](https://github.com/user-attachments/assets/2f37109b-5b5a-4eb4-baaa-d79517f1196e)
