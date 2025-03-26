@@ -1,6 +1,11 @@
 # This is my conversation with Super Grok.  Very frustrating. All AI's have this same problem!
 
 <br>
+Best Programming AI: Claude
+<br>
+Best AI for continuous work (not stoping when producing results): Super Grok
+<br>
+
 
 ![convo1](https://github.com/user-attachments/assets/e47d156f-a64e-4864-bc92-e8c5738cb7dc)
 ![convo2](https://github.com/user-attachments/assets/92f22fd1-d061-4c72-ad3f-5c61e58f0845)
