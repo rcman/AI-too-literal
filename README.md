@@ -64,3 +64,12 @@ Straight on view only
 <br>
 
 ![chatgpt5](https://github.com/user-attachments/assets/8e5615d2-1342-411f-b01d-450c387af5d5)
+
+<BR>
+<BR>
+
+Update" Aug 2025
+<BR>
+
+
+It's been many months and this has not gotten any better. Such a POS!
