@@ -73,3 +73,16 @@ Update" Aug 2025
 
 
 It's been many months and this has not gotten any better. Such a POS!
+<BR>
+<BR>
+
+# Update November 2025
+
+<BR>
+
+Well even after the upgrades it still can't or won't do it...... I give up!
+
+<BR>
+
+<img width="833" height="719" alt="grok is stupid1" src="https://github.com/user-attachments/assets/f766402c-4019-4792-8836-be67a45ef757" />
+
